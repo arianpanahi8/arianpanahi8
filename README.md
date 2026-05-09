@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hamid Valad and I'm Data Analyst.</h2>
+<h2 align="left">Hi 👋! My name is Arian and I'm Data Analyst.</h2>
 <ul>
 <li>👀 I’m interested in DataScience and ML</li>
 <li>🌱 I’m currently working at Diamond Smart Idea an IT based company as CEO</li>
