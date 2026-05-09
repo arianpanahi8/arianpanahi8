@@ -1,2 +1,2 @@
-## Hi there 👋 \n
+## Hi there 👋
 I,am Arian
