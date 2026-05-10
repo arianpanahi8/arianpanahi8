@@ -33,12 +33,7 @@ I am a passionate Python beginner who loves the art of coding and building new t
 I'm always open to learning and collaborating!
 
 <div align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/arian/" >
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
-    <a target="_blank" href="https://t.me/Arian_26" >
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" target="_blank" href="https://t.me/Arian_26" /> </a>
-    <a target="_blank" href="mailto: arianpanahi6@gmail.com"  >
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+<a target="_blank" href="https://www.linkedin.com/in/arian/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a><a target="_blank" href="https://t.me/Arian_26"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /></a><a target="_blank" href="mailto:arianpanahi6@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
 </div>
 
 ---
